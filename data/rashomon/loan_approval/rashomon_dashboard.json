@@ -1,0 +1,82 @@
+{
+  "taskType": "classification",
+  "labelNames": [
+    "Rejected",
+    "Approved"
+  ],
+  "positiveClass": 1,
+  "criteriaOrder": [
+    "accuracy",
+    "fairness",
+    "domain_consistency",
+    "main_effect_complexity"
+  ],
+  "criteriaMax": [
+    10000,
+    20000,
+    20000,
+    20000
+  ],
+  "models": [
+    {
+      "id": "seed_2033",
+      "label": "Model 2033",
+      "seed": 2033,
+      "values": [
+        9718.969555035128,
+        13417.054744575289,
+        12235.854448959142,
+        10638.297872340427
+      ],
+      "main_effect_params": 44
+    },
+    {
+      "id": "seed_2088",
+      "label": "Model 2088",
+      "seed": 2088,
+      "values": [
+        9742.388758782201,
+        13280.985594552069,
+        12360.561114768914,
+        10638.297872340427
+      ],
+      "main_effect_params": 44
+    },
+    {
+      "id": "seed_2115",
+      "label": "Model 2115",
+      "seed": 2115,
+      "values": [
+        9637.002341920374,
+        13509.503352615013,
+        12586.516004445231,
+        10638.297872340427
+      ],
+      "main_effect_params": 44
+    },
+    {
+      "id": "seed_2117",
+      "label": "Model 2117",
+      "seed": 2117,
+      "values": [
+        9637.002341920374,
+        13518.081668762172,
+        12646.145564194963,
+        10638.297872340427
+      ],
+      "main_effect_params": 44
+    },
+    {
+      "id": "seed_2056",
+      "label": "Model 2056",
+      "seed": 2056,
+      "values": [
+        9601.873536299765,
+        13286.803266627465,
+        12286.458308096264,
+        10638.297872340427
+      ],
+      "main_effect_params": 44
+    }
+  ]
+}

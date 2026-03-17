@@ -1,0 +1,122 @@
+[
+  {
+    "seed": 1087,
+    "val_MAE": 0.2101401537656784,
+    "val_RMSE": 0.2736941359404319,
+    "val_R2": 0.894810140132904,
+    "test_MAE": 0.2100735306739807,
+    "test_RMSE": 0.2730569643877055,
+    "test_R2": 0.8954702615737915,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1087.joblib"
+  },
+  {
+    "seed": 1023,
+    "val_MAE": 0.20942644774913788,
+    "val_RMSE": 0.27187730634741486,
+    "val_R2": 0.8962020874023438,
+    "test_MAE": 0.21142451465129852,
+    "test_RMSE": 0.27402085339068,
+    "test_R2": 0.8947309851646423,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1023.joblib"
+  },
+  {
+    "seed": 1036,
+    "val_MAE": 0.21331599354743958,
+    "val_RMSE": 0.27529555228524133,
+    "val_R2": 0.8935756087303162,
+    "test_MAE": 0.21354664862155914,
+    "test_RMSE": 0.27494624652898464,
+    "test_R2": 0.8940187692642212,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1036.joblib"
+  },
+  {
+    "seed": 1079,
+    "val_MAE": 0.2120184302330017,
+    "val_RMSE": 0.27473807974791126,
+    "val_R2": 0.8940061926841736,
+    "test_MAE": 0.2127162367105484,
+    "test_RMSE": 0.27602199118447623,
+    "test_R2": 0.8931878209114075,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1079.joblib"
+  },
+  {
+    "seed": 1043,
+    "val_MAE": 0.2146625816822052,
+    "val_RMSE": 0.27733223850914074,
+    "val_R2": 0.8919950723648071,
+    "test_MAE": 0.21431800723075867,
+    "test_RMSE": 0.27732913556345473,
+    "test_R2": 0.8921737670898438,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1043.joblib"
+  },
+  {
+    "seed": 1001,
+    "val_MAE": 0.2190486192703247,
+    "val_RMSE": 0.28251439237222853,
+    "val_R2": 0.8879210948944092,
+    "test_MAE": 0.2175883650779724,
+    "test_RMSE": 0.2813952653637731,
+    "test_R2": 0.888988733291626,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1001.joblib"
+  },
+  {
+    "seed": 1060,
+    "val_MAE": 0.21679076552391052,
+    "val_RMSE": 0.28051634307669127,
+    "val_R2": 0.8895007967948914,
+    "test_MAE": 0.21742121875286102,
+    "test_RMSE": 0.2815397147931053,
+    "test_R2": 0.8888747692108154,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1060.joblib"
+  },
+  {
+    "seed": 1091,
+    "val_MAE": 0.21843349933624268,
+    "val_RMSE": 0.28132762102729725,
+    "val_R2": 0.8888607025146484,
+    "test_MAE": 0.21850501000881195,
+    "test_RMSE": 0.282124642841348,
+    "test_R2": 0.8884125351905823,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1091.joblib"
+  },
+  {
+    "seed": 1052,
+    "val_MAE": 0.21780896186828613,
+    "val_RMSE": 0.27984241745129396,
+    "val_R2": 0.890031099319458,
+    "test_MAE": 0.22031757235527039,
+    "test_RMSE": 0.28235942524735425,
+    "test_R2": 0.8882267475128174,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1052.joblib"
+  },
+  {
+    "seed": 1082,
+    "val_MAE": 0.2187403440475464,
+    "val_RMSE": 0.2823664968391544,
+    "val_R2": 0.8880383968353271,
+    "test_MAE": 0.22026845812797546,
+    "test_RMSE": 0.2830945563211695,
+    "test_R2": 0.8876439332962036,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1082.joblib"
+  },
+  {
+    "seed": 1059,
+    "val_MAE": 0.2206137776374817,
+    "val_RMSE": 0.28383204901849507,
+    "val_R2": 0.8868731260299683,
+    "test_MAE": 0.22070452570915222,
+    "test_RMSE": 0.28395542327768575,
+    "test_R2": 0.8869596123695374,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1059.joblib"
+  },
+  {
+    "seed": 1021,
+    "val_MAE": 0.2205353081226349,
+    "val_RMSE": 0.2841357823175014,
+    "val_R2": 0.8866308927536011,
+    "test_MAE": 0.22456924617290497,
+    "test_RMSE": 0.28811632416379446,
+    "test_R2": 0.8836224675178528,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet/selected_models/xgboost_rashomon_1021.joblib"
+  }
+]
