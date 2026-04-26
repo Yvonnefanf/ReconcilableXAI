@@ -1,42 +1,52 @@
 [
   {
-    "seed": 2033,
-    "val_logloss": 0.07171454413505973,
+    "seed": 2004,
+    "val_logloss": 0.08532868761903362,
+    "val_accuracy": 0.9695550351288056,
+    "test_accuracy": 0.9648711943793911,
+    "test_logloss": 0.07962867443823267,
+    "global_fairness_diff": 0.46609005331993103,
+    "global_domain_consistency": 15038.952097442307,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan_NN/selected_models/nn_rashomon_loan_2004.joblib"
+  },
+  {
+    "seed": 2066,
+    "val_logloss": 0.07136088644681789,
+    "val_accuracy": 0.9765807962529274,
+    "test_accuracy": 0.9660421545667447,
+    "test_logloss": 0.08574922361475042,
+    "global_fairness_diff": 0.4580479860305786,
+    "global_domain_consistency": 15599.8851124313,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan_NN/selected_models/nn_rashomon_loan_2066.joblib"
+  },
+  {
+    "seed": 2057,
+    "val_logloss": 0.07715516950158882,
     "val_accuracy": 0.9789227166276346,
-    "test_accuracy": 0.9718969555035128,
-    "test_logloss": 0.06281836840124878,
-    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan/selected_models/xgboost_rashomon_loan_2033.joblib"
+    "test_accuracy": 0.9625292740046838,
+    "test_logloss": 0.08619419955521122,
+    "global_fairness_diff": 0.46580272912979126,
+    "global_domain_consistency": 16201.22587521212,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan_NN/selected_models/nn_rashomon_loan_2057.joblib"
   },
   {
-    "seed": 2088,
-    "val_logloss": 0.0705775344295592,
-    "val_accuracy": 0.9789227166276346,
-    "test_accuracy": 0.9742388758782201,
-    "test_logloss": 0.07185499971971739,
-    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan/selected_models/xgboost_rashomon_loan_2088.joblib"
+    "seed": 2009,
+    "val_logloss": 0.08439986909397569,
+    "val_accuracy": 0.9695550351288056,
+    "test_accuracy": 0.955503512880562,
+    "test_logloss": 0.10848052766030827,
+    "global_fairness_diff": 0.4612376093864441,
+    "global_domain_consistency": 16601.93687570646,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan_NN/selected_models/nn_rashomon_loan_2009.joblib"
   },
   {
-    "seed": 2115,
-    "val_logloss": 0.0758461716066155,
-    "val_accuracy": 0.9672131147540983,
-    "test_accuracy": 0.9637002341920374,
-    "test_logloss": 0.07380169173620704,
-    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan/selected_models/xgboost_rashomon_loan_2115.joblib"
-  },
-  {
-    "seed": 2117,
-    "val_logloss": 0.0769701422267463,
-    "val_accuracy": 0.9672131147540983,
-    "test_accuracy": 0.9637002341920374,
-    "test_logloss": 0.07604243564774817,
-    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan/selected_models/xgboost_rashomon_loan_2117.joblib"
-  },
-  {
-    "seed": 2056,
-    "val_logloss": 0.07197632160590303,
+    "seed": 2081,
+    "val_logloss": 0.08019122127300761,
     "val_accuracy": 0.9648711943793911,
     "test_accuracy": 0.9601873536299765,
-    "test_logloss": 0.08166992920853634,
-    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan/selected_models/xgboost_rashomon_loan_2056.joblib"
+    "test_logloss": 0.1130254611809016,
+    "global_fairness_diff": 0.46324363350868225,
+    "global_domain_consistency": 16507.302889090966,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/RashomonSet_loan_NN/selected_models/nn_rashomon_loan_2081.joblib"
   }
 ]

@@ -1,0 +1,77 @@
+{
+  "strategies": {
+    "majority_vote": {
+      "label": "Majority Vote",
+      "short": "Uses the most common prediction across all models.",
+      "icon": "el-icon-s-check",
+      "color": "#409eff"
+    },
+    "local_best_model": {
+      "label": "Local Best Model",
+      "short": "Picks the single model with the best local performance.",
+      "icon": "el-icon-aim",
+      "color": "#67c23a"
+    },
+    "preference_weighted_best_model": {
+      "label": "Preference-Weighted Best",
+      "short": "Picks the model with the highest score under your criteria weights.",
+      "icon": "el-icon-star-on",
+      "color": "#e6a23c"
+    },
+    "weighted_vote_fixed": {
+      "label": "Weighted Vote",
+      "short": "Averages model probabilities, weighted by criterion scores.",
+      "icon": "el-icon-s-data",
+      "color": "#909399"
+    },
+    "abstain_or_defer": {
+      "label": "Abstain / Defer",
+      "short": "Defers to a human when models disagree too much.",
+      "icon": "el-icon-warning-outline",
+      "color": "#f56c6c"
+    }
+  },
+  "strategy_order": [
+    "majority_vote",
+    "local_best_model",
+    "preference_weighted_best_model",
+    "weighted_vote_fixed",
+    "abstain_or_defer"
+  ],
+  "criteria": [
+    "performance",
+    "fairness",
+    "domain_consistency"
+  ],
+  "preference_profiles": {
+    "balanced": {
+      "performance": 1.0,
+      "fairness": 1.0,
+      "domain_consistency": 1.0
+    },
+    "performance_focused": {
+      "performance": 3.0,
+      "fairness": 1.0,
+      "domain_consistency": 0.5
+    },
+    "fairness_focused": {
+      "performance": 1.0,
+      "fairness": 3.0,
+      "domain_consistency": 1.0
+    },
+    "consistency_focused": {
+      "performance": 1.0,
+      "fairness": 1.0,
+      "domain_consistency": 3.0
+    }
+  },
+  "seeds": [
+    2004,
+    2066,
+    2057,
+    2009,
+    2081
+  ],
+  "n_test_cases": 854,
+  "selector_cv_accuracy": 0.830189198486412
+}

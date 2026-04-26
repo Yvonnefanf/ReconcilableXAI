@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 211,
+    "val_accuracy": 0.8992974238875878,
+    "test_accuracy": 0.8747072599531616,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/diverse_rashomon_nn_accuracy_only/selected_models/nn_diverse_loan_perf_only_211.joblib"
+  },
+  {
+    "seed": 8,
+    "val_accuracy": 0.8711943793911007,
+    "test_accuracy": 0.8688524590163934,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/diverse_rashomon_nn_accuracy_only/selected_models/nn_diverse_loan_perf_only_8.joblib"
+  },
+  {
+    "seed": 40,
+    "val_accuracy": 0.8688524590163934,
+    "test_accuracy": 0.8524590163934426,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/diverse_rashomon_nn_accuracy_only/selected_models/nn_diverse_loan_perf_only_40.joblib"
+  },
+  {
+    "seed": 97,
+    "val_accuracy": 0.8665105386416861,
+    "test_accuracy": 0.8430913348946136,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/diverse_rashomon_nn_accuracy_only/selected_models/nn_diverse_loan_perf_only_97.joblib"
+  },
+  {
+    "seed": 312,
+    "val_accuracy": 0.8665105386416861,
+    "test_accuracy": 0.8372365339578455,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/diverse_rashomon_nn_accuracy_only/selected_models/nn_diverse_loan_perf_only_312.joblib"
+  }
+]

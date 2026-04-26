@@ -1,0 +1,61 @@
+{
+  "taskType": "classification",
+  "labelNames": [
+    "Rejected",
+    "Approved"
+  ],
+  "positiveClass": 1,
+  "criteriaOrder": [
+    "accuracy"
+  ],
+  "criteriaMax": [
+    10000
+  ],
+  "models": [
+    {
+      "id": "seed_2080",
+      "label": "Model 2080",
+      "seed": 2080,
+      "values": [
+        8817.330210772834
+      ],
+      "main_effect_params": null
+    },
+    {
+      "id": "seed_2037",
+      "label": "Model 2037",
+      "seed": 2037,
+      "values": [
+        8817.330210772834
+      ],
+      "main_effect_params": null
+    },
+    {
+      "id": "seed_2006",
+      "label": "Model 2006",
+      "seed": 2006,
+      "values": [
+        8793.911007025761
+      ],
+      "main_effect_params": null
+    },
+    {
+      "id": "seed_2102",
+      "label": "Model 2102",
+      "seed": 2102,
+      "values": [
+        8758.782201405153
+      ],
+      "main_effect_params": null
+    },
+    {
+      "id": "seed_2001",
+      "label": "Model 2001",
+      "seed": 2001,
+      "values": [
+        8723.653395784542
+      ],
+      "main_effect_params": null
+    }
+  ]
+}

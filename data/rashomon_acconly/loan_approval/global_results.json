@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 2080,
+    "val_accuracy": 0.9086651053864169,
+    "test_accuracy": 0.8817330210772834,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2080.joblib"
+  },
+  {
+    "seed": 2037,
+    "val_accuracy": 0.8969555035128806,
+    "test_accuracy": 0.8817330210772834,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2037.joblib"
+  },
+  {
+    "seed": 2006,
+    "val_accuracy": 0.8992974238875878,
+    "test_accuracy": 0.8793911007025761,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2006.joblib"
+  },
+  {
+    "seed": 2102,
+    "val_accuracy": 0.8899297423887588,
+    "test_accuracy": 0.8758782201405152,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2102.joblib"
+  },
+  {
+    "seed": 2001,
+    "val_accuracy": 0.8969555035128806,
+    "test_accuracy": 0.8723653395784543,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2001.joblib"
+  }
+]

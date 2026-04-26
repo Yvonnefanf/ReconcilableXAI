@@ -1,0 +1,127 @@
+[
+  {
+    "seed": 2080,
+    "params": {
+      "hidden_layer_sizes": [
+        24
+      ],
+      "activation": "tanh",
+      "solver": "adam",
+      "alpha": 0.00047313477755724694,
+      "learning_rate_init": 0.009568071317337336,
+      "batch_size": 64,
+      "max_iter": 161,
+      "n_iter_no_change": 10,
+      "tol": 0.0001,
+      "early_stopping": 1,
+      "validation_fraction": 0.1,
+      "random_state": 2080,
+      "verbose": 0,
+      "beta_1": 0.9774022529988491,
+      "beta_2": 0.9957502743903067
+    },
+    "val_accuracy": 0.9086651053864169,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2080.joblib",
+    "test_accuracy": 0.8817330210772834
+  },
+  {
+    "seed": 2006,
+    "params": {
+      "hidden_layer_sizes": [
+        24
+      ],
+      "activation": "relu",
+      "solver": "adam",
+      "alpha": 0.007068639080799632,
+      "learning_rate_init": 0.006686484313207219,
+      "batch_size": 32,
+      "max_iter": 121,
+      "n_iter_no_change": 8,
+      "tol": 0.0001,
+      "early_stopping": 1,
+      "validation_fraction": 0.1,
+      "random_state": 2006,
+      "verbose": 0,
+      "beta_1": 0.9538862540375839,
+      "beta_2": 0.9968920801735852
+    },
+    "val_accuracy": 0.8992974238875878,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2006.joblib",
+    "test_accuracy": 0.8793911007025761
+  },
+  {
+    "seed": 2001,
+    "params": {
+      "hidden_layer_sizes": [
+        24
+      ],
+      "activation": "relu",
+      "solver": "adam",
+      "alpha": 0.00014260887470331522,
+      "learning_rate_init": 0.017753438922716525,
+      "batch_size": 64,
+      "max_iter": 180,
+      "n_iter_no_change": 12,
+      "tol": 0.0001,
+      "early_stopping": 1,
+      "validation_fraction": 0.1,
+      "random_state": 2001,
+      "verbose": 0,
+      "beta_1": 0.9420858854112325,
+      "beta_2": 0.9962080316082677
+    },
+    "val_accuracy": 0.8969555035128806,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2001.joblib",
+    "test_accuracy": 0.8723653395784543
+  },
+  {
+    "seed": 2037,
+    "params": {
+      "hidden_layer_sizes": [
+        24
+      ],
+      "activation": "tanh",
+      "solver": "adam",
+      "alpha": 0.0009798124595881959,
+      "learning_rate_init": 0.008287939601987503,
+      "batch_size": 32,
+      "max_iter": 198,
+      "n_iter_no_change": 15,
+      "tol": 0.0001,
+      "early_stopping": 1,
+      "validation_fraction": 0.1,
+      "random_state": 2037,
+      "verbose": 0,
+      "beta_1": 0.8873837842535116,
+      "beta_2": 0.997631203930531
+    },
+    "val_accuracy": 0.8969555035128806,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2037.joblib",
+    "test_accuracy": 0.8817330210772834
+  },
+  {
+    "seed": 2102,
+    "params": {
+      "hidden_layer_sizes": [
+        48
+      ],
+      "activation": "relu",
+      "solver": "adam",
+      "alpha": 0.001612654024127287,
+      "learning_rate_init": 0.006309880007535525,
+      "batch_size": 32,
+      "max_iter": 155,
+      "n_iter_no_change": 15,
+      "tol": 0.0001,
+      "early_stopping": 1,
+      "validation_fraction": 0.1,
+      "random_state": 2102,
+      "verbose": 0,
+      "beta_1": 0.954433926577036,
+      "beta_2": 0.9984854453124803
+    },
+    "val_accuracy": 0.8899297423887588,
+    "model_path": "/home/yifan/UbiComp/Multiplicity/_reconciliation_acc_only/rashomon_nn_accuracy_only/selected_models/nn_rashomon_loan_perf_only_2102.joblib",
+    "test_accuracy": 0.8758782201405152
+  }
+]
